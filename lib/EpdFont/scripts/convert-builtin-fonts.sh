@@ -45,6 +45,7 @@ ARABIC_INTERVALS=(
   --additional-intervals 0x061F,0x061F  # Arabic question mark
   --additional-intervals 0x0621,0x0621  # hamza (non-joining, never shaped)
   --additional-intervals 0x0640,0x0640  # tatweel
+  --additional-intervals 0x0654,0x0654  # Persian/Urdu ezafe hamza, Arabic hamza carriers
   --additional-intervals 0x0660,0x0669  # Arabic-Indic digits
   --additional-intervals 0x06BA,0x06BA  # noon ghunna base (initial/medial keep base cp)
   --additional-intervals 0x06D4,0x06D4  # Urdu full stop

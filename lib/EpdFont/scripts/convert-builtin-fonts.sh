@@ -49,6 +49,7 @@ ARABIC_INTERVALS=(
   --additional-intervals 0x0660,0x0669  # Arabic-Indic digits
   --additional-intervals 0x06BA,0x06BA  # noon ghunna base (initial/medial keep base cp)
   --additional-intervals 0x06D4,0x06D4  # Urdu full stop
+  --additional-intervals 0x06D5,0x06D5  # ae (isolated; Kurdish/Uyghur/Ottoman) — has no presentation form
   --additional-intervals 0x06F0,0x06F9  # extended Arabic-Indic digits (Farsi/Urdu)
   --additional-intervals 0xFB56,0xFB59  # peh (Farsi)
   --additional-intervals 0xFB66,0xFB69  # tteh (Urdu)
